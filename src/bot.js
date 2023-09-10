@@ -10,6 +10,11 @@ client.on('message', (message) => {
 if (message.content === '!ping') {
   message.reply('Pong!');
 }
+  
+if (message.content === 'owner') {
+  message.reply('https://musarda.github.io');
+}
+
 });
 
 client.login(token);
