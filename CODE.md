@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> You Need Code Editor to Run the Code.
+
 * We import the `discord.js` library, which facilitates interactions with the Discord API.
 * A new instance of the Discord client is created, allowing us to manage the bot's interactions with the Discord server.
 * The `token` variable stores the bot's authentication token. Replace `YOUR_BOT_TOKEN` with your actual bot token obtained from the Discord Developer Portal.
