@@ -99,6 +99,11 @@ client.login(token); // Log in to Discord using the bot's token.
 ```
 1. Finally, we log in to the Discord server using `client.login(token)`. This is where the bot's token is used for authentication, allowing the bot to connect to the server and respond to events.
 
+## Clone
+```git
+gh repo clone musarda/Discord-JavaScript-Bot
+```
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
